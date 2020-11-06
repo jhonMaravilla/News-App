@@ -8,6 +8,6 @@
 * Coroutines
 * Jetpack Navigation
 
-## Displays on recyclerview and implemented pagination for large data. News can be added and deleted using our Room persistence library. 
+### Displays on recyclerview and implemented pagination for large data. News can be added and deleted using our Room persistence library. 
 
 
